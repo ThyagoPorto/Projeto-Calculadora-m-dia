@@ -1,1 +1,1 @@
-# Projeto-Calculadora-m-dia
+# Projeto-Calculadora-média
